@@ -17,4 +17,5 @@
 - 3.4 ViewPager嵌套ViewPager内部解决法
 - 3.5 滑动方向相同，解决冲突的外部解决法
 - 3.6 解决ScrollView和ViewPager,RecycleView滑动冲突
+- 3.7 测试
 
